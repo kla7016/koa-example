@@ -9,3 +9,9 @@ sudo npm i -g nodemon
 ```
 npm run dev
 ```
+
+## Lib for test
+
+```
+npm i chai-http mocha chai --save-dev
+```
