@@ -15,3 +15,9 @@ npm run dev
 ```
 npm i chai-http mocha chai --save-dev
 ```
+
+## Test Script
+
+```
+npm run test
+```
