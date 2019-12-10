@@ -21,3 +21,13 @@ npm i chai-http mocha chai --save-dev
 ```
 npm run test
 ```
+
+## Install Koa Generator
+
+```
+sudo npm i -g koa-generator
+```
+
+```
+https://www.npmjs.com/package/koa-generator
+```
